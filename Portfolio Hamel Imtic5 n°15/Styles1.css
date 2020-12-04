@@ -1,0 +1,49 @@
+body{
+    background-image: url('bc.jpg');
+}
+nav{
+    background-color: rgba(208, 211, 245, 0.842);
+    border-color: #080808;
+}
+nav li{
+    display: inline-block;
+    padding: 15px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-family: "Raleway", Sans-serif;
+    font-size: 17px;
+}
+nav a:hover{
+    text-decoration: none;
+    color: white;
+    font-family: "Raleway", Sans-serif;
+    font-size: 17px;
+    background-color: rgb(18, 14, 43);
+    padding: 15px;
+}
+section {
+    padding-bottom: 60px;
+    padding-top: 100px;
+    display: block;
+    background-image: url('Batman.jpg');
+    text-align: center;
+}
+section h4{
+    color: cornflowerblue;
+}
+section h3{
+    color: cornflowerblue;
+}
+img {
+    border-radius: 15000000000px;
+    border-color: white;
+    width: 150px;
+}
+.section{
+    margin-top: 100px;
+}
